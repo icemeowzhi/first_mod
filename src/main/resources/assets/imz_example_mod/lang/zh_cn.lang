@@ -1,0 +1,13 @@
+itemGroup.example_tab=imz's example mod
+item.imz_first_item.name=这是imz的第一个物品，可喜可贺
+item.troll.name=troll
+item.green_apple.name=青苹果
+item.green_apple_axe.name=青苹果斧头
+item.green_apple_pickaxe.name=青苹果镐子
+item.green_apple_shovel.name=青苹果铲子
+item.green_apple_sword.name=青苹果剑
+item.green_apple_helmet.name=green apple helmet
+item.green_apple_chestplate.name=green apple chestplate
+item.green_apple_leggings.name=green apple leggings
+item.green_apple_boots.name=green apple boots
+tile.dynamic_machine.gui.name=切换材质

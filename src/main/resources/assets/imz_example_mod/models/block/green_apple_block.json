@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle":"imz_example_mod:blocks/green_apple_block",
+        "down": "imz_example_mod:blocks/green_apple_block",
+        "up": "imz_example_mod:blocks/green_apple_block",
+        "north": "imz_example_mod:blocks/green_apple_block",
+        "south": "imz_example_mod:blocks/green_apple_block",
+        "west": "imz_example_mod:blocks/green_apple_block",
+        "east": "imz_example_mod:blocks/green_apple_block"
+    }
+}

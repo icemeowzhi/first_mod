@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "model": "orientable",
+      "textures": {
+        "top": "imz_example_mod:blocks/machine_top",
+        "side": "imz_example_mod:blocks/machine_side",
+        "front": "imz_example_mod:blocks/machine_3"
+      }
+    },
+    "variants": {
+      "inventory": [{
+        "textures": { "front": "imz_example_mod:blocks/machine_3" }
+      }],
+
+      "facing": {
+        "east": { "y": 90, "uvlock": true },
+        "north": {},
+        "south": { "y": 180, "uvlock": true },
+        "west": { "y": 270, "uvlock": true }
+      }
+    }
+
+
+}

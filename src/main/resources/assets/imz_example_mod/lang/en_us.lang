@@ -1,0 +1,24 @@
+itemGroup.example_tab=imz's example mod
+item.imz_first_item.name=IMZ's first item
+item.troll.name=troll
+item.green_apple.name=green apple
+item.green_apple_axe.name=green apple axe
+item.green_apple_pickaxe.name=green apple pickaxe
+item.green_apple_shovel.name=green apple shovel
+item.green_apple_sword.name=green apple sword
+item.green_apple_helmet.name=green apple helmet
+item.green_apple_chestplate.name=green apple chestplate
+item.green_apple_leggings.name=green apple leggings
+item.green_apple_boots.name=green apple boots
+
+tile.dynamic_machine.name=dynamic_machine
+tile.green_apple_block.name=green apple block
+
+tile.dynamic_machine.gui.name=切换材质
+
+texture_set4=设置第四种材质
+texture_set3=设置第三种材质
+texture_set2=设置第二种材质
+texture_set1=设置第一种材质
+
+tile.gae_oven.gui.name=apple oven

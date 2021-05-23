@@ -1,0 +1,21 @@
+r  "variants": {
+
+    "facing=east":{
+      "model": "imz_example_mod:dynamic_machine1",
+      "y": 90,
+      "uvlock":true
+    },
+    "facing=north":{
+      "model": "imz_example_mod:dynamic_machine1",
+      "uvlock":true
+    },
+    "facing=south":{
+      "model": "imz_example_mod:dynamic_machine1",
+      "y": 180,
+      "uvlock":true
+    },
+    "facing=west":{
+      "model": "imz_example_mod:dynamic_machine1",
+      "y": 270,
+      "uvlock":true
+    }

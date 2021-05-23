@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "imz_example_mod:items/green_apple_sword"
+  }
+}

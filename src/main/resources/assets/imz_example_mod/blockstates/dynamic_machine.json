@@ -1,0 +1,29 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "model": "orientable",
+      "textures": {
+        "top": "imz_example_mod:blocks/machine_top",
+        "side": "imz_example_mod:blocks/machine_side"
+      }
+    },
+    "variants": {
+      "inventory": [{
+        "textures": { "front": "imz_example_mod:blocks/machine_1" }
+      }],
+      "type": {
+        "m1": { "textures": { "front": "imz_example_mod:blocks/machine_1" } },
+        "m2": { "textures": { "front": "imz_example_mod:blocks/machine_2" } },
+        "m3": { "textures": { "front": "imz_example_mod:blocks/machine_3" } },
+        "m4": { "textures": { "front": "imz_example_mod:blocks/machine_4" } }
+      },
+      "facing": {
+        "east": { "y": 90, "uvlock": true },
+        "north": {},
+        "south": { "y": 180, "uvlock": true },
+        "west": { "y": 270, "uvlock": true }
+      }
+    }
+
+
+}

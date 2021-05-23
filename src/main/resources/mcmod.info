@@ -1,0 +1,16 @@
+[
+{
+  "modid": "imz_example_mod",
+  "name": "imz's example Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "immmmz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
